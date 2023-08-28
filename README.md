@@ -22,7 +22,7 @@ Analysing Seattle and Boston AirBnB to answer questions using the CRISP-DM Proce
 An exploratory notebook and csv files of the dataset
 
 ## Medium Blogpost
-More findings on the analysis can be gotten here.
+More findings on the analysis can be gotten here<https://medium.com/@ifyobi21/deep-dive-into-airbnb-data-boston-vs-seattle-319bafbf6840>.
 
 ## Licensing, Authors, Acknowledgement etc.
 Dataset from Kaggle, scikit-learn documentation, python documentation.
